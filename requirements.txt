@@ -1,0 +1,5 @@
+streamlit>=1.27
+plotly
+pandas
+numpy
+fastf1
